@@ -1,0 +1,4 @@
+baseURL = 'https://www.linjimi.com/'
+languageCode = 'en-us'
+title = 'Lin Jimi'
+theme = 'quint'

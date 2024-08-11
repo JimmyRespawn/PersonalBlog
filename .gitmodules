@@ -1,0 +1,4 @@
+[submodule "linjimi/public"]
+	path = linjimi/public
+	url = https://github.com/JimmyRespawn/linjimi.github.io.git
+	branch = main
