@@ -10,8 +10,8 @@ draft = false
 
 I work as `Developer` and `Designer` in the following projects
 
-- [IPTV Fluent](https://apps.microsoft.com/detail/9pkmdlwbc8zj?hl=en-US&gl=US&launch=true&mode=full&ocid=officialwebsite) - a modern IPTV app on Windows and Xbox
-- [Podcasted](https://apps.microsoft.com/detail/9nxwgr2b1p26?hl=en-US&gl=US&launch=true&mode=full&ocid=officialwebsite) - a native Windows/Xbox podcast app
+- [IPTV Fluent](https://apps.microsoft.com/detail/9pkmdlwbc8zj?hl=en-US&gl=US&mode=full&ocid=officialwebsite) - a modern IPTV app on Windows and Xbox
+- [Podcasted](https://apps.microsoft.com/detail/9nxwgr2b1p26?hl=en-US&gl=US&mode=full&ocid=officialwebsite) - a native Windows/Xbox podcast app
 - [Other Windows apps](https://app.linjimi.com/)
 
 
@@ -23,7 +23,6 @@ I used to work as `Product Manager` in the following projects
 - [Chinese Academic of Engineering](https://en.cae.cn/cae/html/en/index.html) - English homepage of official CAE website.
 - Volvo - internal management system
 - China Mobile - internal Selenium-like system
-- Accenture
 
 ## Contact
 
